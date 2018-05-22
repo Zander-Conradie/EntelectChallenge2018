@@ -1,0 +1,8 @@
+{
+	"author": "Zander",
+	"email": "Zander.Conradie@gmail.com",
+	"nickName": "Zander",
+	"botLocation": "/WizardBot/bin/Debug/netcoreapp2.0",
+	"botFileName": "WizardBot.dll",
+	"botLanguage": "c#core"
+}
